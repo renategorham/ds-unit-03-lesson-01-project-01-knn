@@ -68,4 +68,3 @@ def knn(train_set, test_set, y, aspect_1, aspect_2, pos_class, neg_class):
     df.to_csv('./data/analyzed.csv')
 
     return df
-
